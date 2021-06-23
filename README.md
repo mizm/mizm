@@ -25,7 +25,7 @@ Java, Spring, Jpa 기술을 통해 백엔드 구현에 관심이 있는  🌱2�
 ### About Me👩‍💻
 
 <div align='center'>
-  <a href="https://velog.io/@miz"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href="https://mizdevlog.tistory.com/"><img src="https://img.shields.io/badge/blog-1DBF73?style=flat-square&logo=blog&logoColor=white"/></a>
   </div>
 <p></p>
 
